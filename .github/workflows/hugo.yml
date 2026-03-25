@@ -35,8 +35,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://lesseuloirblog-dev.github.io/esseuloir/" \
-            --relativeURLs
+            --baseURL "https://lesseuloirblog-dev.github.io/esseuloir/" 
 
 
       - name: Upload artifact

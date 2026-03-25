@@ -5,6 +5,7 @@ languageCode = "fr-FR"
 preserveTaxonomyNames = true
 hasCJKLanguage = false
 relativeURLs = true
+canonifyURLs = true
 
 [services]
   # Enable comments by entering your Disqus shortname
