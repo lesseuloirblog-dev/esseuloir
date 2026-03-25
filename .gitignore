@@ -1,0 +1,9 @@
+# Hugo default output
+public/
+resources/
+# OS generated files
+.DS_Store
+# Backup files
+*.bak
+# Local environment variables
+.env
