@@ -1,4 +1,3 @@
-YAML
 name: Deploy Hugo site to Pages
 
 on:
