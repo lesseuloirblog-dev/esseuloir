@@ -68,7 +68,7 @@
 
     <title>{{ if .Title }}{{ .Title }} | {{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
 
-    <link rel="canonical" href="{{ .RelPermalink }}">
+    <link rel="canonical" href="{{ .RelPermalink | absURL }}">
 
     {{ if .Site.Params.disqus_proxy }}
     <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | absURL }}"/>
