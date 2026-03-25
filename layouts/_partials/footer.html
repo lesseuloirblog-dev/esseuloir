@@ -58,7 +58,7 @@
 		            <!-- Huabing: add wechat QR code link -->
                     {{ with .Site.Params.social.wechat }}
                     <li>
-                        <a target="_blank" href="{{ . | relURL }}">
+                        <a target="_blank" href="{{ . | absURL }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
@@ -315,7 +315,7 @@
 </script>
 
 <!-- Theme Toggle -->
-<script src="{{ "js/theme-toggle.js" | relURL }}"></script>
+<script src="{{ "js/theme-toggle.js" | absURL }}"></script>
 
 <!-- push page to Baidu -->
 {{ if .Site.Params.ba_track_id }}
@@ -394,7 +394,7 @@
      * Fork by Hux to support padding
      */
 
-    loadAsync("{{ `js/jquery.nav.js` | relURL }}", function () {
+    loadAsync("{{ `js/jquery.nav.js` | absURL }}", function () {
         $('.catalog-body').onePageNav({
             currentClass: "active",
             changeHash: !1,
