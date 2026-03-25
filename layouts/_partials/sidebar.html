@@ -243,7 +243,7 @@
         <h5>FRIENDS</h5>
         <ul class="list-inline">
             {{ range .Site.Params.friend_link }}
-            <li><a target="_blank" href="{{.href}}">{{.title}}</a></li>
+            <li><a target="_blank" href="{{.href | absURL}}">{{.title}}</a></li>
             {{ end }}
         </ul>
     </section>
@@ -254,7 +254,7 @@
         <h5>{{ .Site.Params.publications.Title }}</h5>
         <div class="short-about">
         {{ range .Site.Params.publications.items }}
-        <a href="{{.href}}">
+        <a href="{{.href | absURL}}">
             <img src="{{.image}}" alt="avatar" style="cursor: pointer" />
         </a>
         {{ end }}
