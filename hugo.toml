@@ -4,7 +4,7 @@ theme = "hugo-theme-cleanwhite"
 languageCode = "fr-FR"
 preserveTaxonomyNames = true
 hasCJKLanguage = false
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 [services]
