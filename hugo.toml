@@ -1,4 +1,4 @@
-baseurl = "https://totot.com"
+baseurl = "https://lesseuloirblog-dev.github.io/esseuloir/"
 title = "L'esseuloir"
 theme = "hugo-theme-cleanwhite"
 languageCode = "fr-FR"
