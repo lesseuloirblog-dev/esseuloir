@@ -28,14 +28,16 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true        # Matches our local 'extended' requirement
+          extended: true        # Matches our local 'extended' requirement # --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Build with Hugo
         run: |
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://lesseuloirblog-dev.github.io/esseuloir/"
+            
+            
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
