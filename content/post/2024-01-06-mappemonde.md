@@ -1,9 +1,17 @@
 ---
-layout: post
-title: Le centre du monde
-subtitle: États des lieux
-cover-img: /assets/img/carto.jpg
-tags: [Le dernier ballon d'essai avant la fin du monde]
+layout:      post
+title:       "Le centre du monde"
+subtitle:    "États des lieux"
+description: "Je rouvre les yeux. Deux heures se sont volatilisées."
+excerpt:     "Je rouvre les yeux. Deux heures se sont volatilisées."
+author:      "Attar Silas"
+image:       "img/2024-01-06.jpg"
+date:        2024-01-06
+publishDate: 2024-01-06
+URL:         "/2024/01/06/monde/"
+tags:
+    - Carnet
+categories: [ Carnet ]
 ---
 
 Le centre du monde n’existe pas. C’est une pure invention, une idée fausse que les cartes géographiques propagent de classe en classe, de programmes scolaires en réformes académiques, et que l’on accepte sans broncher, car nous avons besoin d’évidences pour tenir debout. Une carte n’a pas de centre, elle n’a qu’un point de vue, et son point de vue détermine précisément ce que l’on peut penser ou pas. La carte est un mensonge, un mensonge utile, mais un mensonge néanmoins. Il est évident, avec un peu de recul, avec la sagesse du satellite en orbite géostationnaire, que le monde, par définition, n’a pas d’autres centres que celui qui nous arrange à un instant t.

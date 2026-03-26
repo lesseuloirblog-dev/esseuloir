@@ -1,10 +1,20 @@
 ---
-layout: post
-title: L'homme impossible
-subtitle: Manuel de survie
-cover-img: /assets/img/mori.jpg
-tags: [Le dernier ballon d'essai avant la fin du monde]
+layout:      post
+title:       "L'homme impossible"
+subtitle:    "Manuel de survie en territoire hostile"
+description: "Tout homme digne de ce mot est pétri de contradictions."
+excerpt:     "Tout homme digne de ce mot est pétri de contradictions."
+author:      "Attar Silas"
+image:       "img/2024-05-28.jpg"
+date:        2024-05-28
+publishDate: 2024-05-28
+URL:         "/2024/05/28/impossible/"
+tags:
+    - Carnet
+categories: [ Carnet ]
 ---
+
+> Crâne avec une cigarette allumée / Vincent van Gogh
 
 > « Ils vivaient entre trois impossibilités (que je nomme par hasard des impossibilités de langage, c’est le plus simple, mais on pourrait aussi les appeler tout autrement) : l’impossibilité de ne pas écrire, l’impossibilité d’écrire en allemand, l’impossibilité d’écrire autrement, à quoi on pourrait presque ajouter une quatrième impossibilité, l’impossibilité d’écrire (car ce désespoir n’était pas quelque chose que l’écriture aurait pu apaiser, c’était un ennemi de la vie et de l’écriture ; l’écriture n’était en l’occurrence qu’un provisoire, comme pour quelqu’un qui écrit son testament juste avant d’aller se pendre, un provisoire qui peut fort bien durer toute une vie), c’était donc une littérature impossible de tous côtés. » -	Franz Kafka
 
