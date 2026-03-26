@@ -1,15 +1,23 @@
 ---
-layout: post
-title: Armistice
-subtitle: ...
-cover-img: /assets/img/paris2.jpg
-tags: [Le dernier ballon d'essai avant la fin du monde]
+layout:      post
+title:       "Armistice"
+subtitle:    "L'utopie de la paix"
+description: "La ville est une image, une représentation. Elle fonctionne, et chacun de nous est un rouage."
+excerpt:     "La ville est une image, une représentation. Elle fonctionne, et chacun de nous est un rouage."
+author:      "Attar Silas"
+image:       "img/2025-05-10.jpg"
+date:        2025-05-10
+publishDate: 2025-05-10
+URL:         "/2025/05/10/armistice/"
+tags:
+    - Carnet
+categories: [ Carnet ]
 ---
+
+> Illustration: La ville de Paris - Robert Delaunay (1912)
 
 > « Pauvres, voilà bien ce que nous sommes devenus. Pièce par pièce, nous avons dispersé l’héritage de l’humanité, nous avons dû laisser ce trésor au mont de piété, souvent pour un centième de sa valeur, en échange de la piécette de l’« actuel ». à la porte se tient la crise économique, derrière elle une ombre, la guerre qui s’apprête. Tenir bon, c’est devenu aujourd’hui l’affaire d’une poignée de puissants qui, Dieu le sait, ne sont pas plus humains que le grand nombre souvent plus barbares, mais pas au bon sens du terme. »
 > -	Walter Benjamin
-
-> Illustration: La ville de Paris - Robert Delaunay (1912)
 
 D’abord, il y a l’effroi. On déambule dans des rues où règne la paix, où chacun semble être à sa place, où nul destin ne semble plus petit ou plus grand qu’un autre, comme si rien ne se passait ailleurs, comme si l’horreur que subissent tant d’autres ne parvenait pas à percer la gangue gelée de notre glaciale félicité.
 

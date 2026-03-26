@@ -14,6 +14,8 @@ tags:
 categories: [ Carnet ]
 ---
 
+> Le géographe / Johannes Vermeer 
+
 Le centre du monde n’existe pas. C’est une pure invention, une idée fausse que les cartes géographiques propagent de classe en classe, de programmes scolaires en réformes académiques, et que l’on accepte sans broncher, car nous avons besoin d’évidences pour tenir debout. Une carte n’a pas de centre, elle n’a qu’un point de vue, et son point de vue détermine précisément ce que l’on peut penser ou pas. La carte est un mensonge, un mensonge utile, mais un mensonge néanmoins. Il est évident, avec un peu de recul, avec la sagesse du satellite en orbite géostationnaire, que le monde, par définition, n’a pas d’autres centres que celui qui nous arrange à un instant t.
 
 Le parfum de café qui émane de la cuisine parvient à me convaincre qu’il est temps de me lever. Je ramasse en passant dans l’entrée le courrier de la veille. Les titres des journaux m’ânonnent ce que je devais penser hier. Hier me semble loin, demain aussi. J’attrape une tasse, l’avale à moitié, puis retourne me coucher. Je ferme les yeux, et le monde se dissout à nouveau. 
