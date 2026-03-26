@@ -24,14 +24,14 @@
     <meta property="og:type" content="article">
 
     {{ if .Params.thumbnail }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
-    {{ else if .Params.image}}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta property="twitter:image" content="{{ . | absURL }}">
+    {{ else if .Params.image }}
+    <meta property="og:image" content="{{ .Params.image | absURL }}">
+    <meta property="twitter:image" content="{{ .Params.image | absURL }}">
     {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" />
+    <meta property="og:image" content="{{ .Site.Params.header_image | absURL }}">
+    <meta property="twitter:image" content="{{ .Site.Params.header_image | absURL }}">
     {{ end }}
 
     {{ if .Params.title }}
