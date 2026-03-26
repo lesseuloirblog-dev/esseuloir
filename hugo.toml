@@ -2,6 +2,7 @@ baseurl = "https://www.esseuloir.fr/"
 title = "L'esseuloir"
 theme = "hugo-theme-cleanwhite"
 languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 preserveTaxonomyNames = true
 hasCJKLanguage = false
 relativeURLs = false
