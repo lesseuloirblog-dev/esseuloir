@@ -5,7 +5,7 @@ subtitle:    "L'utopie de la paix"
 description: "La ville est une image, une représentation. Elle fonctionne, et chacun de nous est un rouage."
 excerpt:     "La ville est une image, une représentation. Elle fonctionne, et chacun de nous est un rouage."
 author:      "Attar Silas"
-image:       "img/2025-05-10.jpg"
+image:       "img/2025-05-09.jpg"
 date:        2025-05-10
 publishDate: 2025-05-10
 URL:         "/2025/05/10/armistice/"
