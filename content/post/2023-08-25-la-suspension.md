@@ -1,12 +1,22 @@
 ---
-layout: post
-title: La suspension consentie...
-subtitle: ...de son incrédulité
-cover-img: /assets/img/beach.png
-tags: [Le dernier ballon d'essai avant la fin du monde]
+layout:      post
+title:       "La suspension consentie..."
+subtitle:    "...de son incrédulité"
+description: "L’enfance est notre part d’éternité. Jamais elle ne s’achève."
+excerpt:     "L’enfance est notre part d’éternité. Jamais elle ne s’achève."
+author:      "Attar Silas"
+image:       "img/2023-08-25.jpg"
+date:        2023-08-25
+publishDate: 2023-08-25
+URL:         "/2023/08/25/suspend/"
+tags:
+    - Carnet
+categories: [ Carnet ]
 ---
 
 > « Il faut être l'homme de la pluie et l'enfant du beau temps. » - René Char
+
+> Les acrobates - Raoul Dufy
 
 L’enfance est notre part d’éternité. Jamais elle ne s’achève. Elle dure et se prolonge, insouciante de nos débuts et de nos fins. On ne la quitte que pour devenir mortel, c’est-à-dire conscient que nous allons mourir un jour, et elle non. Il nous devient alors impossible de l’habiter. C’est le dernier cordon qu’il nous faut couper. Après, c’est la chute libre.
 
