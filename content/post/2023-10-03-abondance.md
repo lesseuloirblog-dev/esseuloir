@@ -1,10 +1,20 @@
 ---
-layout: post
-title: Le fin de l'abondance.
-subtitle: Amalthée a bon dos.
-cover-img: /assets/img/abondance.jpg
-tags: [Chroniques de l'extra-lucidité]
+layout:      post
+title:       "La fin de l'abondance"
+subtitle:    "Amalthée a bon dos"
+description: "Les livres laissent toujours sur la faim, au sens propre comme au sens figuré."
+excerpt:     "Les livres laissent toujours sur la faim, au sens propre comme au sens figurée."
+author:      "Attar Silas"
+image:       "img/2023-10-03.jpg"
+date:        2023-10-03
+publishDate: 2023-10-03
+URL:         "/2023/10/03/abondance/"
+tags:
+    - Fictions
+categories: [ Fictions ]
 ---
+
+> Allégorie de l'abondance / Jan Breughel
 
 Il trouvait étrange l’idée de la fin de l’abondance. Pour qu’elle puisse se finir, encore fallait-il qu’elle ait débuté. C’était quant au juste, l’abondance ? Et surtout, comment avait-il pu passer à côté ? Assurément, elle ne datait pas d’hier, sinon elle serait passée inaperçue, et personne n’en parlerait. Pour autant, d’aussi loin qu’il se souvienne, il n’avait jamais connu cette sensation de satiété qui aurait dû être le fruit de l’abondance. Sa vie avait été marquée du sceau de la privation et du manque. Faire sans plutôt que faire avec. Clairement, il y avait anguille sous roche. Soit on nomme abondance quelque chose qui ne l’est pas, soit cette abondance n’est pas équitablement distribuée, auquel cas elle ne mérite pas d’être nommée abondance.
 
