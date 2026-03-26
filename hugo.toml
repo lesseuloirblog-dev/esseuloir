@@ -87,7 +87,7 @@ home = ["HTML", "RSS"]
 
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+  email          = "lesseuloirblog@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
