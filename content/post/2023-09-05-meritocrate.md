@@ -1,10 +1,20 @@
 ---
-layout: post
-title: Le méritocrate
-subtitle: L'autre conjuration des imbéciles
-cover-img: /assets/img/judge.jpg
-tags: [Chroniques de l'extra-lucidité]
+layout:      post
+title:       "Le méritocrate"
+subtitle:    "L'autre conjuration des imbéciles"
+description: "La méritocrature n’est pas qu’une question financière. Vous pouvez parfaitement être pauvre et méritocrate."
+excerpt:     "La méritocrature n’est pas qu’une question financière. Vous pouvez parfaitement être pauvre et méritocrate."
+author:      "Attar Silas"
+image:       "img/2023-09-05.jpg"
+date:        2023-09-05
+publishDate: 2023-09-05
+URL:         "/2023/09/05/merite/"
+tags:
+    - Fictions
+categories: [ Fictions ]
 ---
+
+> Marché d'esclaves avec apparition du buste invisible de Voltaire / Dali
 
 Je ne devrais peut-être pas dire ça dans une cour de justice, mais moi, les méritocrates, ça me donne des envies d’homicides. Etant donné les circonstances, je sais que je ne plaide pas en ma faveur. Mais rassurez-vous, je ne suis pas violent, ce n’est qu’une façon de parler. Permettez-moi de m’expliquer.
 

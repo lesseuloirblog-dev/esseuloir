@@ -1,10 +1,20 @@
 ---
-layout: post
-title: Fleur bleue
-subtitle: Julien pas clair du tout...
-cover-img: /assets/img/door.jpg
-tags: [Transports amoureux]
+layout:      post
+title:       "Fleur bleue"
+subtitle:    "Julien pas clair du tout"
+description: "Il faut dire que j’avais pour moi la qualité indéniable d’être un élève médiocre."
+excerpt:     "Il faut dire que j’avais pour moi la qualité indéniable d’être un élève médiocre."
+author:      "Attar Silas"
+image:       "img/2023-09-03.jpg"
+date:        2023-09-03
+publishDate: 2023-09-03
+URL:         "/2023/09/03/fleur/"
+tags:
+    - Fictions
+categories: [ Fictions ]
 ---
+
+> La reproduction interdite / Magritte
 
 Mes parents m’ont nommé Julien. En hommage au chanteur, bien sûr. Ouais, l’imaginaire, ce n’était pas leur principale qualité. J’aurais préféré Johnny. Mais ils auraient dû savoir dans quoi ils s’engageaient. D’aussi loin que je me souvienne, j’ai toujours été fleur bleue. Ça faisait rire ma mère, qui me trouvait mignon. Mais cela désolait mon père, qui s’inquiétait pour ma capacité à survivre dans ce monde. 
 

@@ -1,10 +1,20 @@
 ---
-layout: post
-title: Le bien peu de chose
-subtitle: Les déménageurs de la déshérence.
-cover-img: /assets/img/the-menaced-assassin.jpg
-tags: [Immobiliers urbains]
+layout:      post
+title:       "Le bien peu de chose"
+subtitle:    "Les déménageurs de la déshérence"
+description: "On pourrait croire que plus on est vieux, plus on a amoncelé. "
+excerpt:     "On pourrait croire que plus on est vieux, plus on a amoncelé."
+author:      "Attar Silas"
+image:       "img/2023-09-02.jpg"
+date:        2023-09-02
+publishDate: 2023-09-02
+URL:         "/2023/09/02/move/"
+tags:
+    - Fictions
+categories: [ Fictions ]
 ---
+
+> Les Travailleurs sur le chemin du retour / Edvard Munch
 
 L’appartement était coquet, et les meubles désuets. L’électricité était, comme on dit, dans son jus. Les interrupteurs antiques avaient le charme de ce qui ne connait pas l’obsolescence programmée. En ce mois de décembre, il faisait particulièrement sombre dans le salon. Mais la chambre bénéficiait d’une belle vue lumineuse sur les barres de fer forgées accrochées aux fenêtres, rez-de-chaussée oblige. 
 
