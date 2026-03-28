@@ -73,7 +73,7 @@ home = ["HTML", "RSS"]
   reward = false 
   # reward_guide = "" 
 
-  friends = false
+  friends = true
   bookmarks = false
   about_me = true
 
@@ -123,6 +123,15 @@ notAlternative = true
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"] 
+
+[[params.friend_link]]
+title =  "La Dame du Lac"
+href =  "https://www.puipuit.fr"
+
+
+[[params.friend_link]]
+title =  "Outside Dana Hilliot"
+href = "https://outsiderland.com/danahilliot"
 
 [markup]
   [markup.tableOfContents]
