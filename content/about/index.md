@@ -4,7 +4,7 @@ layout: page
 
 ## Esseuloir : 
 
-Lieu ou l’on ***s’esseule***.  
+Lieu où l’on ***s’esseule***.  
 Par définition, tout endroit où se pratique une activité solitaire.  
 Exemple : Toilette, chambre, voiture, internet…  
 
