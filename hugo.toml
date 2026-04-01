@@ -45,7 +45,7 @@ home = ["HTML", "RSS"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Acrobate maladroit, ivre de vertige, toujours à un seul pas de la chute. Poète par accident ou par facilité, parfois les deux - souvent en réalité. Irresponsable notoire, éternel impatient, aussi vieux que Mathusalem, pathologiquement misanthrope, bref, un homme qui gagne à ne pas être connu. Aime se perdre dans la foule et dans les reflets."
+  sidebar_about_description = "Acrobate maladroit, ivre de vertige, toujours à un seul pas de la chute.</br></br>Poète par accident ou par facilité, parfois les deux - souvent en réalité. </br></br>Irresponsable notoire, éternel impatient, aussi vieux que Mathusalem, pathologiquement misanthrope, bref, un homme qui gagne à ne pas être connu. </br></br>Aime se perdre dans la foule et dans les reflets."
   sidebar_avatar = "img/self.jpg"    # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false 
