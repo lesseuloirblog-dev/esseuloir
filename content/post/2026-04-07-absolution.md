@@ -16,6 +16,8 @@ categories: [ Fictions ]
 
 We'll See How It Goes / Liz Slome
 
+( Archive - Eté 2022 )
+
 Plutôt jolie, elle avait dans le regard cet air fracassé de celles qui avaient trop aimé à sens unique. Cet air qui dit « J’ai besoin de toi ce soir, mais demain je t’aurai oublié. » 
 
 Pour l’amour, moi, je n’aime pas payer. J’ai mes filons. Je sais où aller piocher du réconfort quand le besoin se fait pressant.  J’offre un verre, deux, trois parfois. Je fais mon numéro, ou un autre, ou un autre encore. J’ai tout un répertoire. Ma spectatrice sait bien où je veux en venir. Mais on passe par toutes les figures obligées, les invitations à demi-mot, les contresens à peine voilés, les sous-entendus sans masque. 
