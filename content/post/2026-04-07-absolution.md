@@ -14,7 +14,7 @@ tags:
 categories: [ Fictions ]
 ---
 
-We'll See How It Goes / Liz Slome
+> We'll See How It Goes / Liz Slome
 
 ( Archive - Eté 2022 )
 
