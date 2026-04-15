@@ -15,7 +15,7 @@ tags:
 categories: [ Fictions ]
 ---
 
-> sleeper Painting by Loïc Desroeux
+> Sleeper / Loïc Desroeux
 
 ( Archive - Eté 2020 )
 
